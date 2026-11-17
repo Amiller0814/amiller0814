@@ -8,30 +8,38 @@
   <a href="https://amiller0814.github.io">
     <img src="https://img.shields.io/badge/Portfolio-Visit-1F3864?style=for-the-badge&logo=github" />
   </a>
+  <a href="mailto:a_miller101@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-Contact-6001D2?style=for-the-badge&logo=yahoo" />
+  </a>
 </p>
 
 ---
 
 ### 🔐 About Me
 
-I'm a cybersecurity and GRC professional with **13+ years of DoD and defense contractor experience** executing Risk Management Framework (RMF) lifecycle operations, implementing NIST SP 800-53 security controls, and driving compliance across regulated environments.
+I'm a cybersecurity and GRC professional with **13+ years of DoD and federal information assurance experience**. My work covers the full Risk Management Framework (RMF) lifecycle, implementing NIST SP 800-53 security controls, managing vulnerabilities, and keeping compliance on track in regulated environments.
 
-- 🎖️ U.S. Army Veteran — Information Assurance Officer | Afghanistan Deployment
-- 🏢 Former Compliance Specialist at **Leidos Defense Group**
-- 🎓 M.S. Cybersecurity Management & Policy — **University of Maryland Global Campus**
+- 🎖️ U.S. Army Veteran: Information Assurance Officer, deployed to Afghanistan (OEF)
+- 🛡️ Army roles: IT Compliance & Security Manager, Risk & Compliance Manager / COMSEC Custodian, Cybersecurity Governance Instructor
+- 🏢 Former ATOM Instructor at **Leidos Defense Group** (Fort Gordon)
+- 🎓 M.S. Cybersecurity Management & Policy, **University of Maryland Global Campus**
 - 📖 Weekly **ISSO Development & RMF** practitioner training through KyoraIQ
-- 🔑 Active **DoD Secret Clearance**
+- 🔑 Active **TS/SCI Clearance**
 
 ---
 
 ### 🛠️ Core Skills
 
 ```text
-Frameworks      NIST SP 800-53 Rev 5 | NIST RMF | NIST CSF | FISMA | HIPAA/HITECH | CIS Controls v8
-GRC             POA&M Development | SSP Authorship | Gap Analysis | Risk Register | ConMon | ATO Support
-Tools           Microsoft Sentinel | Splunk | Defender for Cloud | Azure Policy | Tenable Nessus | ServiceNow
-Cloud           Microsoft Azure | AWS (exposure) | Azure Key Vault | Microsoft Entra ID
-Certifications  CASP+ / SecurityX | Security+ (DoD 8140) | Network+ |
+Frameworks      NIST SP 800-53 Rev 5 | NIST RMF | NIST CSF | NIST SP 800-171 | FISMA | DoDI 8510.01
+                HIPAA/HITECH | PCI DSS v4.0 | SOX ITGC | CIS Controls v8
+GRC             SSP Authorship | SCTM | POA&M Lifecycle Management | eMASS BoE Artifacts | ATO Support
+                Gap Analysis | Risk Register | Continuous Monitoring (ConMon)
+Hardening       DISA STIGs | SCAP Compliance Checker (SCC) | STIG Viewer | ACAS / Tenable Nessus
+SIEM & Tools    Splunk | IBM QRadar | Microsoft Sentinel | Defender for Cloud | Azure Policy | ServiceNow
+Cloud           Microsoft Azure | AWS GovCloud (exposure) | Azure Key Vault | Microsoft Entra ID
+COMSEC          Type 1 Cryptographic Devices | KMI | Key Loaders (SKL)
+```
 
 ---
 
@@ -39,23 +47,28 @@ Certifications  CASP+ / SecurityX | Security+ (DoD 8140) | Network+ |
 
 | Project | Frameworks | Artifacts | Status |
 |---|---|---|---|
-| [🏥 MedSecure Cloud Platform (MSCP)](https://amiller0814.github.io/projects/MSCP/) | NIST SP 800-53 · HIPAA · RMF | Architecture · Control Matrix · Gap Analysis · Risk Register · POA&M | ✅ Complete |
-| 🏛️ DoD RMF Authorization Package | NIST SP 800-53 · RMF · eMASS | SSP · SCTM · POA&M · ATO Checklist | 🔄 Coming Soon |
+| [🏥 MedSecure Cloud Platform (MSCP)](https://github.com/amiller0814/amiller0814.github.io/tree/main/projects/MSCP) | NIST SP 800-53 · HIPAA · RMF | Architecture Diagram · Control Matrix · Gap Analysis · Risk Register · POA&M | ✅ Complete |
+| [🏛️ Operation Iron Shield (OIS)](https://github.com/amiller0814/amiller0814.github.io/tree/main/projects/OIS) | NIST SP 800-53 · RMF · FISMA · DoDI 8510.01 | SSP · SCTM · POA&M · ATO Recommendation Memo | ✅ Complete |
+| [✈️ AeroPass (APS)](https://github.com/amiller0814/amiller0814.github.io/tree/main/projects/AeroPass) | PCI DSS v4.0 · SOX ITGC · NIST SP 800-171 · DFARS | PCI Gap Assessment · SOX ITGC Test Matrix · 800-171 Readiness · Cross-Framework Mapping · Splunk Executive Dashboard | ✅ Complete |
+| [🛡️ STIG Hardening Home Lab](https://github.com/amiller0814/amiller0814.github.io/tree/main/projects/STIG-Lab) | DISA STIGs · NIST SP 800-53 CM-6 | Baseline & Rescan Results · STIG Viewer Checklists · POA&M · Risk Acceptance Memo | 🔄 In Progress |
+| 🤖 GovAI Sentinel | NIST AI RMF · NIST RMF | Federal AI Governance & ATO Platform (Next.js · Supabase · LLM) | 🔄 In Development |
 
 ---
 
 ### 📊 Current Focus
 
-- 📖 **Weekly ISSO Development** — RMF lifecycle, ConMon operations, ATO package management
-- 🏗️ **Portfolio Building** — Expanding GRC project library to demonstrate DoD and federal compliance expertise
-- 🎓 **M.S. Cybersecurity** — University of Maryland Global Campus (Expected 2027)
+- 🛡️ **STIG Hardening Lab:** Building Windows Server 2022 and RHEL 9 targets, then baselining, remediating, and rescanning them against DISA STIGs
+- 🤖 **GovAI Sentinel:** Building a working federal AI governance and authorization platform
+- 📖 **Weekly ISSO Development:** RMF lifecycle, ConMon operations, ATO package management
+- 🎓 **M.S. Cybersecurity:** University of Maryland Global Campus (Expected 2027)
 
 ---
 
 ### 📜 Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/CASP%2B%20%2F%20SecurityX-Active-1F3864?style=flat-square" />
+  <img src="https://img.shields.io/badge/CISM-Exam%20Passed%20%7C%20Verification%20Pending-B8860B?style=flat-square" />
+  <img src="https://img.shields.io/badge/CASP%2B%20%2F%20SecurityX%20(IAT%20III)-Active-1F3864?style=flat-square" />
   <img src="https://img.shields.io/badge/Security%2B%20(DoD%208140)-Active-1F3864?style=flat-square" />
   <img src="https://img.shields.io/badge/Network%2B-Active-1F3864?style=flat-square" />
 </p>
@@ -64,4 +77,4 @@ Certifications  CASP+ / SecurityX | Security+ (DoD 8140) | Network+ |
 
 ### 🤝 Let's Connect
 
-I am actively growing my GRC and ISSO skill set and always open to connecting with others in the cybersecurity, federal contracting, and veteran tech
+I'm always building my GRC and ISSO skills, and I'm open to connecting with others in cybersecurity, federal contracting, and the veteran tech community. Reach out on [LinkedIn](https://linkedin.com/in/ashleyelainemiller1) or visit my [portfolio](https://amiller0814.github.io).
